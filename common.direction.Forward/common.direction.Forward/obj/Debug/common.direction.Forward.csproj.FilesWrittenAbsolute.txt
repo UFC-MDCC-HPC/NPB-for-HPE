@@ -1,0 +1,4 @@
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.direction.Forward/bin/1.0.0.0/IForwardDirection.dll.mdb
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.direction.Forward/bin/1.0.0.0/IForwardDirection.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.direction.Forward/common.direction.Forward/obj/Debug/IForwardDirection.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.direction.Forward/common.direction.Forward/obj/Debug/IForwardDirection.dll.mdb

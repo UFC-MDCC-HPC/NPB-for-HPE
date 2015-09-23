@@ -1,0 +1,4 @@
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.interactionpattern.Shift/bin/1.0.0.0/IShift.dll.mdb
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.interactionpattern.Shift/bin/1.0.0.0/IShift.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.interactionpattern.Shift/common.interactionpattern.Shift/obj/Debug/IShift.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.interactionpattern.Shift/common.interactionpattern.Shift/obj/Debug/IShift.dll.mdb

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?>
+<component:component xmlns:component="http://www.example.org/HashComponent">
+  <header hash_component_UID="00240000048000009400000006020000002400005253413100040000110000007df23873699519ccd28bc097fecd01a94e78ed32b1e745d6dc5445651bd560345cd315fff3ac09272fbb605693711991adb1dcd55a6a9940f6d40371625f87956bd67dd22bb625ffcd6358a9c50819adef634c0ba9d63d16456861f14f4166a6f3f26c60e6844cbc8b6feab20c004f921ab22dc1ef046b9dbbec231e276d3fa5" isAbstract="true" kind="Topology" name="Teste2" packagePath="teste">
+    <versions field1="1" field2="0" field3="0" field4="0"/>
+    <visualAttributes>
+      <color b="255" g="255" r="255"/>
+    </visualAttributes>
+  </header>
+  <componentInfo>
+    <interface iRef="Iiii" nArgs="0">
+      <sources sourceType="C# Language" versionId="1.0.0.0"/>
+      <visualDescription h="40" w="80" x="249" y="172">
+        <color b="128" g="128" r="128"/>
+      </visualDescription>
+    </interface>
+    <unit iRef="Iiii" multiple="true" private="false" replica="0" uRef="iii" visibleInterface="true">
+      <visualDescription h="40" w="80" x="249" y="252"/>
+    </unit>
+    <unit iRef="Iiii" multiple="true" private="false" replica="1" uRef="iii" visibleInterface="true">
+      <visualDescription h="40" w="80" x="368" y="256"/>
+    </unit>
+  </componentInfo>
+</component:component>

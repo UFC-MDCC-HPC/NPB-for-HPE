@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ASCII"?>
+<project xmlns="http://nant.sf.net/release/0.86-beta1/nant.xsd" basedir="/home/heron/hpe/cache" default="all" name="BlockTriangularSolutionBlts">
+  <property name="nant.settings.currentframework" value="mono-2.0"/>
+  <property name="build" value="bin"/>
+  <property name="src" value="src"/>
+  <target name="BlockTriangularSolutionBlts-1.0.0.0">
+    <ifnot targetexists="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.lu.ssor.BlockTriangularSolutionBlts/bin/1.0.0.0">
+      <mkdir dir="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.lu.ssor.BlockTriangularSolutionBlts/bin/1.0.0.0"/>
+    </ifnot>
+    <csc debug="false" keyfile="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.lu.ssor.BlockTriangularSolutionBlts/BlockTriangularSolutionBlts.snk" optimize="true" output="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.lu.ssor.BlockTriangularSolutionBlts/bin/1.0.0.0/BaseIBlockTriangularSolutionBlts.dll" target="library" unsafe="true">
+      <sources>
+        <include name="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.lu.ssor.BlockTriangularSolutionBlts/src/1.0.0.0/BaseIBlockTriangularSolutionBlts.cs"/>
+      </sources>
+      <references>
+        <include name="common.topology.Ring/bin/1.0.0.0/ICell.dll"/>
+        <include name="lu.data.ProblemDefinition/bin/1.0.0.0/IProblemDefinition.dll"/>
+        <include name="lu.problem_size.Instance_LU/bin/1.0.0.0/IInstance_LU.dll"/>
+        <include name="common.problem_size.Class/bin/1.0.0.0/IClass.dll"/>
+        <include name="lu.datapartition.BlocksInfo/bin/1.0.0.0/IBlocksInfo.dll"/>
+        <include name="environment.MPIDirect/bin/1.0.0.0/IMPIDirect.dll"/>
+        <include name="lu.Exchange/bin/1.0.0.0/IExchange.dll"/>
+        <include name="lu.exchange.ExchangePattern11/bin/1.0.0.0/IExchangePattern11.dll"/>
+        <include name="common.direction.Forward/bin/1.0.0.0/IForwardDirection.dll"/>
+        <include name="lu.exchange.ExchangePattern10/bin/1.0.0.0/IExchangePattern10.dll"/>
+        <include name="lu.ssor.BlockTriangularSolution/bin/1.0.0.0/BaseIBlockTriangularSolution.dll"/>
+        <include name="/usr/lib/mono/MPI/MPI.dll"/>
+        <include name="/usr/lib/mono/DGAC/DGAC.dll"/>
+      </references>
+    </csc>
+    <csc debug="false" keyfile="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.lu.ssor.BlockTriangularSolutionBlts/BlockTriangularSolutionBlts.snk" optimize="true" output="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.lu.ssor.BlockTriangularSolutionBlts/bin/1.0.0.0/IBlockTriangularSolutionBlts.dll" target="library" unsafe="true">
+      <sources>
+        <include name="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.lu.ssor.BlockTriangularSolutionBlts/src/1.0.0.0/IBlockTriangularSolutionBlts.cs"/>
+      </sources>
+      <references>
+        <include name="lu.problem_size.Instance_LU/bin/1.0.0.0/IInstance_LU.dll"/>
+        <include name="common.problem_size.Class/bin/1.0.0.0/IClass.dll"/>
+        <include name="common.direction.Forward/bin/1.0.0.0/IForwardDirection.dll"/>
+        <include name="/impl.lu.ssor.BlockTriangularSolutionBlts/bin/1.0.0.0/BaseIBlockTriangularSolutionBlts.dll"/>
+        <include name="lu.ssor.BlockTriangularSolution/bin/1.0.0.0/IBlockTriangularSolution.dll"/>
+        <include name="/usr/lib/mono/MPI/MPI.dll"/>
+        <include name="/usr/lib/mono/DGAC/DGAC.dll"/>
+      </references>
+    </csc>
+  </target>
+  <target depends="BlockTriangularSolutionBlts-1.0.0.0" name="all"/>
+</project>

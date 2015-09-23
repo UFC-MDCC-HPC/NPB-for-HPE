@@ -1,0 +1,4 @@
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.Buffer/bin/1.0.0.0/IBuffer.dll.mdb
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.Buffer/bin/1.0.0.0/IBuffer.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.Buffer/common.Buffer/obj/Debug/IBuffer.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.Buffer/common.Buffer/obj/Debug/IBuffer.dll.mdb

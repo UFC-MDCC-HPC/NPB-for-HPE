@@ -1,0 +1,4 @@
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.direction.Direction/bin/1.0.0.0/IDirection.dll.mdb
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.direction.Direction/bin/1.0.0.0/IDirection.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.direction.Direction/common.direction.Direction/obj/Debug/IDirection.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.direction.Direction/common.direction.Direction/obj/Debug/IDirection.dll.mdb

@@ -1,0 +1,4 @@
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/environment.MPIDirect/bin/1.0.0.0/IMPIDirect.dll.mdb
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/environment.MPIDirect/bin/1.0.0.0/IMPIDirect.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/environment.MPIDirect/environment.MPIDirect/obj/Debug/IMPIDirect.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/environment.MPIDirect/environment.MPIDirect/obj/Debug/IMPIDirect.dll.mdb

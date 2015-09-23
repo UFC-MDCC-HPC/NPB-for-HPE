@@ -1,0 +1,4 @@
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.interactionpattern.AllExchange/bin/1.0.0.0/IAllExchange.dll.mdb
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.interactionpattern.AllExchange/bin/1.0.0.0/IAllExchange.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.interactionpattern.AllExchange/common.interactionpattern.AllExchange/obj/Debug/IAllExchange.dll
+/home/heron/Dropbox/Alunos/Cenez - Mestrado/hpe/common.interactionpattern.AllExchange/common.interactionpattern.AllExchange/obj/Debug/IAllExchange.dll.mdb

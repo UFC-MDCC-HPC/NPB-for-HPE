@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="impl.common.interactionpattern.AllExchangeImpl/src/1.0.0.0/IAllExchangeImpl.cs">
+    <Files>
+      <File FileName="impl.adi.ADI_Solver3DImpl/src/1.0.0.0/IADI_Solver3DImpl.cs" Line="1" Column="1" />
+      <File FileName="impl.adi.VerifyImpl/src/1.0.0.0/IVerifyImpl.cs" Line="1" Column="1" />
+      <File FileName="impl.sp.solve.SolverImpl/src/1.0.0.0/BaseISolverImpl.cs" Line="1" Column="1" />
+      <File FileName="impl.sp.solve.ZForwardImpl/src/1.0.0.0/BaseIZForwardImpl.cs" Line="1" Column="1" />
+      <File FileName="impl.sp.solve.ZForwardImpl/src/1.0.0.0/IZForwardImpl.cs" Line="223" Column="1" />
+      <File FileName="impl.sp.adi.SP_ADIImpl/src/1.0.0.0/BaseISP_ADIImpl.cs" Line="1" Column="1" />
+      <File FileName="impl.sp.adi.SP_ADIImpl/src/1.0.0.0/ISP_ADIImpl.cs" Line="1" Column="1" />
+      <File FileName="impl.adi.ADI_Solver3DImpl/src/1.0.0.0/BaseIADI_Solver3DImpl.cs" Line="1" Column="1" />
+      <File FileName="adi.Solver/src/1.0.0.0/BaseISolver.cs" Line="1" Column="1" />
+      <File FileName="adi.Solver/src/1.0.0.0/ISolver.cs" Line="1" Column="1" />
+      <File FileName="common.axis.Axis/src/1.0.0.0/IAxis.cs" Line="1" Column="1" />
+      <File FileName="common.solve.SolvingMethod/src/1.0.0.0/ISolvingMethod.cs" Line="1" Column="1" />
+      <File FileName="impl.sp.solve.SolverImpl/src/1.0.0.0/ISolverImpl.cs" Line="79" Column="4" />
+      <File FileName="impl.sp.solve.XLHS/src/1.0.0.0/IXLHSImpl.cs" Line="30" Column="4" />
+      <File FileName="impl.sp.solve.XLHS/src/1.0.0.0/BaseIXLHSImpl.cs" Line="1" Column="34" />
+      <File FileName="impl.common.interactionpattern.AllExchangeImpl/src/1.0.0.0/IAllExchangeImpl.cs" Line="200" Column="23" />
+      <File FileName="impl.common.interactionpattern.AllExchangeImpl/src/1.0.0.0/BaseIAllExchangeImpl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.lu.Exchange13/src/1.0.0.0/IExchange13.cs" line="25" column="1" />
+      <Breakpoint file="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.lu.Exchange13/src/1.0.0.0/IExchange13.cs" line="23" column="1" />
+      <Breakpoint file="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.ft.fft.SwarztrauberFFT1DImpl/src/1.0.0.0/ISwarztrauberFFT1DImpl.cs" line="15" column="1" />
+      <Breakpoint file="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.sp.solve.shift.ZReadBufferBackward/src/1.0.0.0/BaseIZReadBufferBackwardImpl.cs" line="1" column="1" />
+      <Breakpoint file="/home/heron/Dropbox/Alunos/Cenez/hpe/impl.bt.solve.ZUnpackSolveInfo/src/1.0.0.0/BaseIZUnpackSolveInfo.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ASCII"?>
+<component:component xmlns:component="http://www.example.org/HashComponent">
+  <header hash_component_UID="0024000004800000940000000602000000240000525341310004000011000000c39e54776f7bfed9d1b3772dfd5435950a8c41afce176d53c72d8f8b573601eb80a977d0533acc4b404d1ecbce97ecb902ceb52ecc7230aae836f212c3ce52e15000512e29aa1823a48ba21820cca07911be04f369a92e1c363aaf6a9e32135ee2f623217b86ba1f9be65f6ae7472438292474ab4cf104489eddef03083b0bdd" isAbstract="true" kind="Computation" name="Teste3" packagePath="teste">
+    <versions field1="1" field2="0" field3="0" field4="0"/>
+    <visualAttributes>
+      <color b="255" g="255" r="255"/>
+    </visualAttributes>
+  </header>
+  <componentInfo>
+    <innerComponent hash_component_UID="00240000048000009400000006020000002400005253413100040000110000002987cbab9b1931cf88ceb9ec4223d53eb4d0812c6d58f7ca4e236ec17e99ad0ba4e863168a82481e00c74c5b5c0b7412762e9b66c7014cf682093e64915e899c7e568fb99e382a57f4ee48d6d04ed432ec38313af22178c9d03ef1dbb0ff17caed9c628cb495ad3ae1cda1ae182947d1acb5207b16cfd804335dc448bf3d9e82" localRef="a" location="teste.Teste/Teste.hpe" multiple="false" name="Teste" package="teste" exposed="false">
+      <visualDescription h="60" w="100" x="205" y="363">
+        <color b="255" g="255" r="255"/>
+      </visualDescription>
+      <unitBounds uRef="t">
+        <visualDescription h="20" w="20" x="5" y="2"/>
+      </unitBounds>
+      <unitBounds uRef="v">
+        <visualDescription h="20" w="20" x="28" y="2"/>
+      </unitBounds>
+      <unitBounds uRef="u">
+        <visualDescription h="20" w="20" x="51" y="2"/>
+      </unitBounds>
+    </innerComponent>
+    <innerComponent hash_component_UID="00240000048000009400000006020000002400005253413100040000110000007df23873699519ccd28bc097fecd01a94e78ed32b1e745d6dc5445651bd560345cd315fff3ac09272fbb605693711991adb1dcd55a6a9940f6d40371625f87956bd67dd22bb625ffcd6358a9c50819adef634c0ba9d63d16456861f14f4166a6f3f26c60e6844cbc8b6feab20c004f921ab22dc1ef046b9dbbec231e276d3fa5" localRef="b" location="teste.Teste2/Teste2.hpe" multiple="false" name="Teste2" package="teste" exposed="false">
+      <visualDescription h="60" w="100" x="81" y="294">
+        <color b="255" g="255" r="255"/>
+      </visualDescription>
+      <unitBounds uRef="iii">
+        <visualDescription h="20" w="20" x="35" y="8"/>
+      </unitBounds>
+    </innerComponent>
+    <unit multiple="false" private="false" uRef="yyy" visibleInterface="false">
+      <visualDescription h="40" w="80" x="199" y="138"/>
+    </unit>
+  </componentInfo>
+</component:component>
